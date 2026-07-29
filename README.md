@@ -3,8 +3,9 @@
 # Java - configurando uma impressora térmica
 Configuração de uma impressora térmica (cupom fiscal) usando a linguagem Java.
 
-##Author
+## Author
 Matheus Jade Esseyah
 
-##Impressora
-![Topologia da Rede](imagens/impressoratermica.jpg)
+## Impressora
+
+![PhotoImpressora](imagens/impressoratermica.jpg)
